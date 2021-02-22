@@ -1,0 +1,37 @@
+# Homebrew
+alias brewi="brew install"
+alias brews="brew search"
+alias brewh="brew home"
+alias brewc="brew cask install"
+alias brewr="brew uninstall"
+alias brewu="brew update \
+                && brew upgrade \
+                && brew cleanup"
+
+# Get local IP
+alias local-ip="ipconfig getifaddr en0"
+
+# Git
+alias g='git'
+alias ga='git add'
+alias gaa='git add .'
+alias pb='git branch'
+alias gbD='git branch -D'
+alias gcm='git checkout master'
+alias gco='git checkout'
+alias gcom='git commit -m'
+alias gd='git diff'
+alias gst='git status'
+alias gp='git push'
+alias gpu='git push -u'
+alias gl='git pull'
+alias gpom='git pull origin master'
+
+# Personal
+alias df='dotfiles'
+alias dev='cd ~/dev'
+alias tss='cd ~/dev/tsseract'
+alias nxs='cd ~/dev/nexstar-frontend'
+alias nxsb='cd ~/dev/nexstar-backend-middleware'
+alias nvimconf='cd ~/.config/nvim'
+alias dl="cd ~/Downloads"
