@@ -1,0 +1,19 @@
+# This is Git's per-user configuration file.
+[user]
+	name = Jeremy Muñoz Torres
+	email = JMunoz@contractor.nexstardigital.com
+# Please adapt and uncomment the following lines:
+#	name = Jeremy
+#	email = jeremy2918@gmail.com
+[pack]
+	windowMemory = 32m
+[filter "lfs"]
+	clean = git-lfs clean -- %f
+	smudge = git-lfs smudge -- %f
+	process = git-lfs filter-process
+	required = true
+[merge "npm-merge-driver"]
+	name = automatically merge npm lockfiles
+	driver = npx npm-merge-driver merge %A %O %B %P
+[pull]
+	rebase = false
