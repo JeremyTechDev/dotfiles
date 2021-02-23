@@ -26,6 +26,7 @@ alias gp='git push'
 alias gpu='git push -u'
 alias gl='git pull'
 alias gpom='git pull origin master'
+alias nvr='--no-verify'
 
 # Personal
 alias df='dotfiles'
@@ -35,3 +36,4 @@ alias nxs='cd ~/dev/nexstar-frontend'
 alias nxsb='cd ~/dev/nexstar-backend-middleware'
 alias nvimconf='cd ~/.config/nvim'
 alias dl="cd ~/Downloads"
+alias dotfiles='/usr/bin/git --git-dir=/Users/jem/.dotfiles/ --work-tree=/Users/jem'
