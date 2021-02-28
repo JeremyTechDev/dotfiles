@@ -11,7 +11,7 @@ These steps will create a copy of all the dotfiles in this repo and place them i
 
 - Install basic command tools
 ```bash
-xcode-select install
+xcode-select --install
 ```
 
 - Install [Homebrew](https://brew.sh) ✨
