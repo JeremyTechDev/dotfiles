@@ -12,6 +12,7 @@ brew tap caskroom/cask
 brew install git
 brew install yarn
 brew install docker   
+brew install neovim
 brew cask install iterm2
 brew cask install postman
 brew cask install ngrok

@@ -37,3 +37,7 @@ alias nxsb='cd ~/dev/nexstar-backend-middleware'
 alias nvimconf='cd ~/.config/nvim'
 alias dl="cd ~/Downloads"
 alias dotfiles='/usr/bin/git --git-dir=/Users/jem/.dotfiles/ --work-tree=/Users/jem'
+
+# Shorts
+alias hm='cd ~'
+alias cls='clear'
