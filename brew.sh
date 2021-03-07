@@ -13,6 +13,7 @@ brew install git
 brew install yarn
 brew install docker   
 brew install neovim
+brew install ranger
 brew cask install iterm2
 brew cask install postman
 brew cask install ngrok

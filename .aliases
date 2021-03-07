@@ -1,15 +1,33 @@
 # Homebrew
-alias brewi="brew install"
-alias brews="brew search"
-alias brewh="brew home"
-alias brewc="brew cask install"
-alias brewr="brew uninstall"
-alias brewu="brew update \
+alias bwi="brew install"
+alias bws="brew search"
+alias bwh="brew home"
+alias bwc="brew cask install"
+alias bwr="brew uninstall"
+alias bwu="brew update \
                 && brew upgrade \
                 && brew cleanup"
 
 # Get local IP
 alias local-ip="ipconfig getifaddr en0"
+
+# npm & yarn
+alias nr='npm run'
+alias ni='npm install'
+alias nrm='npm uninstall'
+alias ns='npm run start'
+alias nd='npm run dev'
+alias nb='npm run build'
+alias nt='npm run test'
+alias y='yarn'
+alias yi='yarn install'
+alias yrm='yarn remove'
+alias ys='yarn start'
+alias yd='yarn dev'
+alias yb='yarn build'
+alias yt='yarn test'
+alias ytt='yarn test:'
+
 
 # Git
 alias g='git'
@@ -19,7 +37,8 @@ alias pb='git branch'
 alias gbD='git branch -D'
 alias gcm='git checkout master'
 alias gco='git checkout'
-alias gcom='git commit -m'
+alias gcom='git commit'
+alias gcomm='git commit -m'
 alias gd='git diff'
 alias gst='git status'
 alias gp='git push'
