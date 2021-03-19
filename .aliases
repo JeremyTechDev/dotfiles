@@ -60,3 +60,7 @@ alias dotfiles='/usr/bin/git --git-dir=/Users/jem/.dotfiles/ --work-tree=/Users/
 # Shorts
 alias hm='cd ~'
 alias cls='clear'
+alias xx='exit'
+
+# Python
+alias py="python3"
