@@ -22,5 +22,5 @@ source $ZSH/oh-my-zsh.sh
 [ -f ~/.fzf.zsh ] && source ~/.fzf.zsh
 
 prompt_context() {
-  prompt_segment black default "$(random_emoji)"
+  prompt_segment black default "$(random_emoji) "
 }
