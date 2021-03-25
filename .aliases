@@ -11,6 +11,12 @@ alias bwu="brew update \
 # Get local IP
 alias local-ip="ipconfig getifaddr en0"
 
+# Save Alfred Preferences
+alias save-alfred-prefs="cp -r ~/Library/Application\ Support/Alfred/Alfred.alfredpreferences ~/Desktop \
+                        && cp -r ~/Desktop/Alfred.alfredpreferences/ .alfred \
+						&& rm -rf ~/Desktop/Alfred.alfredpreferences \
+						&& echo 'Done ✨'"
+
 # npm & yarn
 alias nr='npm run'
 alias ni='npm install'
