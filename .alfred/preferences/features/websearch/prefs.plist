@@ -4,6 +4,19 @@
 <dict>
 	<key>customSites</key>
 	<dict>
+		<key>077A56EA-7BA5-40C9-83C8-A692D344AC7D</key>
+		<dict>
+			<key>enabled</key>
+			<true/>
+			<key>keyword</key>
+			<string>popular</string>
+			<key>text</key>
+			<string>Popular</string>
+			<key>url</key>
+			<string>https://www.popularenlinea.com/personas/Paginas/Home.aspx</string>
+			<key>utf8</key>
+			<true/>
+		</dict>
 		<key>1ECCB4A2-BDBE-45F6-B4D3-249E06F9CD4F</key>
 		<dict>
 			<key>enabled</key>
@@ -27,6 +40,19 @@
 			<string>Amazon</string>
 			<key>url</key>
 			<string>https://smile.amazon.com</string>
+			<key>utf8</key>
+			<true/>
+		</dict>
+		<key>23105774-73C4-4E0A-B709-AE4C031C0AC6</key>
+		<dict>
+			<key>enabled</key>
+			<true/>
+			<key>keyword</key>
+			<string>travis</string>
+			<key>text</key>
+			<string>Travis CI</string>
+			<key>url</key>
+			<string>https://travis-ci.com/github/wpcomvip/nxs/branches</string>
 			<key>utf8</key>
 			<true/>
 		</dict>
@@ -56,6 +82,19 @@
 			<key>utf8</key>
 			<true/>
 		</dict>
+		<key>33263B8E-9B65-4ADB-9B0B-8034158C5E49</key>
+		<dict>
+			<key>enabled</key>
+			<true/>
+			<key>keyword</key>
+			<string>git</string>
+			<key>text</key>
+			<string>Github</string>
+			<key>url</key>
+			<string>https://github.com</string>
+			<key>utf8</key>
+			<true/>
+		</dict>
 		<key>36E87481-634A-4A08-A064-2C5E942ED809</key>
 		<dict>
 			<key>enabled</key>
@@ -69,6 +108,19 @@
 			<key>utf8</key>
 			<true/>
 		</dict>
+		<key>3E539ED1-1538-4AE0-B462-1A6549D7EB30</key>
+		<dict>
+			<key>enabled</key>
+			<true/>
+			<key>keyword</key>
+			<string>stage</string>
+			<key>text</key>
+			<string>Stage</string>
+			<key>url</key>
+			<string>https://nxsttv-stage.go-vip.net/wcmh/</string>
+			<key>utf8</key>
+			<true/>
+		</dict>
 		<key>3F47B5D7-EBD1-4647-B321-D79C00B995D4</key>
 		<dict>
 			<key>enabled</key>
@@ -78,7 +130,33 @@
 			<key>text</key>
 			<string>Udemy</string>
 			<key>url</key>
-			<string>https://www.udemy.com</string>
+			<string>https://www.udemy.com/home/my-courses/learning/</string>
+			<key>utf8</key>
+			<true/>
+		</dict>
+		<key>3FEF787D-491E-43F9-93D5-07F1A9803104</key>
+		<dict>
+			<key>enabled</key>
+			<true/>
+			<key>keyword</key>
+			<string>5000</string>
+			<key>text</key>
+			<string>Localhost 5000</string>
+			<key>url</key>
+			<string>http://localhost:5000</string>
+			<key>utf8</key>
+			<true/>
+		</dict>
+		<key>442E2D48-DBE7-4A01-862C-32ECA66C7E9C</key>
+		<dict>
+			<key>enabled</key>
+			<true/>
+			<key>keyword</key>
+			<string>tt</string>
+			<key>text</key>
+			<string>Twitter</string>
+			<key>url</key>
+			<string>https://twitter.com</string>
 			<key>utf8</key>
 			<true/>
 		</dict>
@@ -87,7 +165,7 @@
 			<key>enabled</key>
 			<true/>
 			<key>keyword</key>
-			<string>local3000</string>
+			<string>3000</string>
 			<key>text</key>
 			<string>Localhost 3000</string>
 			<key>url</key>
@@ -98,7 +176,7 @@
 		<key>4E434B52-0E02-4135-B7F4-5715247652D7</key>
 		<dict>
 			<key>enabled</key>
-			<true/>
+			<false/>
 			<key>keyword</key>
 			<string>notion</string>
 			<key>text</key>
@@ -113,11 +191,115 @@
 			<key>enabled</key>
 			<true/>
 			<key>keyword</key>
-			<string>local8080</string>
+			<string>8080</string>
 			<key>text</key>
 			<string>Localhost 8080</string>
 			<key>url</key>
 			<string>http://localhost:8080/</string>
+			<key>utf8</key>
+			<true/>
+		</dict>
+		<key>5893EA62-6932-4AFF-B60C-B9D95D4FCE65</key>
+		<dict>
+			<key>enabled</key>
+			<false/>
+			<key>keyword</key>
+			<string>amway</string>
+			<key>text</key>
+			<string>Amway</string>
+			<key>url</key>
+			<string>https://www.amway.com.do</string>
+			<key>utf8</key>
+			<true/>
+		</dict>
+		<key>5C6E4D1A-73FA-4003-AE03-B14D5E083C6E</key>
+		<dict>
+			<key>enabled</key>
+			<true/>
+			<key>keyword</key>
+			<string>algoexpert</string>
+			<key>text</key>
+			<string>AlgoExpert</string>
+			<key>url</key>
+			<string>https://www.algoexpert.io/content#ae</string>
+			<key>utf8</key>
+			<true/>
+		</dict>
+		<key>5F7E03E3-DB27-479B-9A07-A000B8FA160F</key>
+		<dict>
+			<key>enabled</key>
+			<true/>
+			<key>keyword</key>
+			<string>jira</string>
+			<key>text</key>
+			<string>Jira</string>
+			<key>url</key>
+			<string>https://nexstardigital.atlassian.net/jira/software/c/projects/MS/boards/59</string>
+			<key>utf8</key>
+			<true/>
+		</dict>
+		<key>6FEF6689-8273-49D6-8D6C-4B750A261149</key>
+		<dict>
+			<key>enabled</key>
+			<true/>
+			<key>keyword</key>
+			<string>docs</string>
+			<key>text</key>
+			<string>Docs</string>
+			<key>url</key>
+			<string>https://docs.google.com/document/</string>
+			<key>utf8</key>
+			<true/>
+		</dict>
+		<key>77DFDC02-CF98-4DF2-97A3-0843F91AE660</key>
+		<dict>
+			<key>enabled</key>
+			<true/>
+			<key>keyword</key>
+			<string>discord</string>
+			<key>text</key>
+			<string>Discord</string>
+			<key>url</key>
+			<string>https://discord.com/channels/@me</string>
+			<key>utf8</key>
+			<true/>
+		</dict>
+		<key>79D2AD52-2F23-4EE1-9D26-FB9A631C7BA5</key>
+		<dict>
+			<key>enabled</key>
+			<true/>
+			<key>keyword</key>
+			<string>linkedin</string>
+			<key>text</key>
+			<string>LinkedIn</string>
+			<key>url</key>
+			<string>https://www.linkedin.com</string>
+			<key>utf8</key>
+			<true/>
+		</dict>
+		<key>79D66631-2B8A-42E5-B9CE-1DD6CD518773</key>
+		<dict>
+			<key>enabled</key>
+			<true/>
+			<key>keyword</key>
+			<string>upwork</string>
+			<key>text</key>
+			<string>Upwork</string>
+			<key>url</key>
+			<string>https://www.upwork.com/ab/find-work/recommended</string>
+			<key>utf8</key>
+			<true/>
+		</dict>
+		<key>94F0F0D9-7126-4718-B8E9-DC2462689CD1</key>
+		<dict>
+			<key>enabled</key>
+			<true/>
+			<key>keyword</key>
+			<string>cc</string>
+			<key>text</key>
+			<string>ClickUp</string>
+			<key>url</key>
+			<string>https://app.clickup.com/14183550/home</string>
 			<key>utf8</key>
 			<true/>
 		</dict>
@@ -147,6 +329,19 @@
 			<key>utf8</key>
 			<true/>
 		</dict>
+		<key>A19EC978-0802-4E36-8609-01A985CFCCC2</key>
+		<dict>
+			<key>enabled</key>
+			<true/>
+			<key>keyword</key>
+			<string>ktla</string>
+			<key>text</key>
+			<string>KTLA</string>
+			<key>url</key>
+			<string>http://local.dev.psg.nexstardigital.net/ktla</string>
+			<key>utf8</key>
+			<true/>
+		</dict>
 		<key>AD46A4F8-DA7F-4C64-9740-B8347640CE97</key>
 		<dict>
 			<key>enabled</key>
@@ -160,10 +355,127 @@
 			<key>utf8</key>
 			<true/>
 		</dict>
-		<key>D8E4EF14-E2CB-4768-B4BD-57A6274F7829</key>
+		<key>AED16FAD-5DAE-4834-B261-86B0FB3A78CE</key>
 		<dict>
 			<key>enabled</key>
 			<true/>
+			<key>keyword</key>
+			<string>vision</string>
+			<key>text</key>
+			<string>Vision</string>
+			<key>url</key>
+			<string>https://www.aicvision20k.com/new-partner-resources?password=iamd1in2021</string>
+			<key>utf8</key>
+			<true/>
+		</dict>
+		<key>C99EAE18-8B7B-4DD7-8F25-12E3B5543AD3</key>
+		<dict>
+			<key>enabled</key>
+			<true/>
+			<key>keyword</key>
+			<string>pva</string>
+			<key>text</key>
+			<string>PVA</string>
+			<key>url</key>
+			<string>https://campusvirtual.pucmm.edu.do</string>
+			<key>utf8</key>
+			<true/>
+		</dict>
+		<key>CA3081F1-3232-43BF-8B3D-ABC969C012D5</key>
+		<dict>
+			<key>enabled</key>
+			<true/>
+			<key>keyword</key>
+			<string>todo</string>
+			<key>text</key>
+			<string>TeuxDeux</string>
+			<key>url</key>
+			<string>https://teuxdeux.com/home</string>
+			<key>utf8</key>
+			<true/>
+		</dict>
+		<key>CA97DE14-FCC4-4963-8FAD-51F4CA6052AA</key>
+		<dict>
+			<key>enabled</key>
+			<true/>
+			<key>keyword</key>
+			<string>slides</string>
+			<key>text</key>
+			<string>Slides</string>
+			<key>url</key>
+			<string>https://docs.google.com/presentation/</string>
+			<key>utf8</key>
+			<true/>
+		</dict>
+		<key>CD0FD262-8DD0-4C65-A78F-B904BF2C34C8</key>
+		<dict>
+			<key>enabled</key>
+			<false/>
+			<key>keyword</key>
+			<string>sheets</string>
+			<key>text</key>
+			<string>Sheets</string>
+			<key>url</key>
+			<string>https://sheets.google.com/presentation/</string>
+			<key>utf8</key>
+			<true/>
+		</dict>
+		<key>D1B262F8-69F0-45CD-A115-60E21FE9D5CB</key>
+		<dict>
+			<key>enabled</key>
+			<true/>
+			<key>keyword</key>
+			<string>json</string>
+			<key>text</key>
+			<string>JSON Formatter</string>
+			<key>url</key>
+			<string>https://jsonformatter.curiousconcept.com</string>
+			<key>utf8</key>
+			<true/>
+		</dict>
+		<key>D1D1B22F-2EEC-4C07-A5B3-3C14643FF3D0</key>
+		<dict>
+			<key>enabled</key>
+			<true/>
+			<key>keyword</key>
+			<string>8000</string>
+			<key>text</key>
+			<string>Localhost 8000</string>
+			<key>url</key>
+			<string>http://localhost:8000</string>
+			<key>utf8</key>
+			<true/>
+		</dict>
+		<key>D2FE945C-552A-4302-A142-AF76D843F2E8</key>
+		<dict>
+			<key>enabled</key>
+			<true/>
+			<key>keyword</key>
+			<string>wavy</string>
+			<key>text</key>
+			<string>Wavy</string>
+			<key>url</key>
+			<string>http://local.dev.psg.nexstardigital.net/wavy/</string>
+			<key>utf8</key>
+			<true/>
+		</dict>
+		<key>D579A496-7CE1-41E8-AAC3-317E9CB38DD1</key>
+		<dict>
+			<key>enabled</key>
+			<true/>
+			<key>keyword</key>
+			<string>gumroad</string>
+			<key>text</key>
+			<string>Gumroad</string>
+			<key>url</key>
+			<string>https://app.gumroad.com/library</string>
+			<key>utf8</key>
+			<true/>
+		</dict>
+		<key>D8E4EF14-E2CB-4768-B4BD-57A6274F7829</key>
+		<dict>
+			<key>enabled</key>
+			<false/>
 			<key>keyword</key>
 			<string>docs</string>
 			<key>text</key>
@@ -186,6 +498,45 @@
 			<key>utf8</key>
 			<true/>
 		</dict>
+		<key>E98C4CA4-4991-4669-A0DC-067D3E852A85</key>
+		<dict>
+			<key>enabled</key>
+			<false/>
+			<key>keyword</key>
+			<string>amway profile</string>
+			<key>text</key>
+			<string>Amway Profile</string>
+			<key>url</key>
+			<string>https://www.amway.com.do/en_DO/my-account</string>
+			<key>utf8</key>
+			<true/>
+		</dict>
+		<key>EE8CFA05-DFEE-4300-A387-668C29C89A2A</key>
+		<dict>
+			<key>enabled</key>
+			<true/>
+			<key>keyword</key>
+			<string>jj</string>
+			<key>text</key>
+			<string>Jira MS...</string>
+			<key>url</key>
+			<string>https://nexstardigital.atlassian.net/browse/MS-{query}</string>
+			<key>utf8</key>
+			<true/>
+		</dict>
+		<key>EFD04202-3326-43E7-8354-33AE7B1CE0B5</key>
+		<dict>
+			<key>enabled</key>
+			<true/>
+			<key>keyword</key>
+			<string>banreservas</string>
+			<key>text</key>
+			<string>Banreservas</string>
+			<key>url</key>
+			<string>https://www.banreservas.com.do/TuBancoPersonas/Login.aspx</string>
+			<key>utf8</key>
+			<true/>
+		</dict>
 		<key>F0106B04-EF2D-46B1-B30A-942D0A4C335A</key>
 		<dict>
 			<key>enabled</key>
@@ -196,6 +547,32 @@
 			<string>Tsseract Board</string>
 			<key>url</key>
 			<string>https://trello.com/b/vcaixqe5/tsseract</string>
+			<key>utf8</key>
+			<true/>
+		</dict>
+		<key>F119982C-472B-4687-8B0B-7F011AA07545</key>
+		<dict>
+			<key>enabled</key>
+			<false/>
+			<key>keyword</key>
+			<string>shop</string>
+			<key>text</key>
+			<string>MyShop</string>
+			<key>url</key>
+			<string>https://www.amway.com.do/es_DO/myshop/jeremy?logout=true</string>
+			<key>utf8</key>
+			<true/>
+		</dict>
+		<key>F6BE04D9-BD0D-4076-9EA5-8F600CB63077</key>
+		<dict>
+			<key>enabled</key>
+			<true/>
+			<key>keyword</key>
+			<string>aws</string>
+			<key>text</key>
+			<string>AWS</string>
+			<key>url</key>
+			<string>https://us-east-2.console.aws.amazon.com/console/home?region=us-east-2#</string>
 			<key>utf8</key>
 			<true/>
 		</dict>
@@ -215,13 +592,26 @@
 		<key>FE7DA844-829C-4C74-8267-B7C582604024</key>
 		<dict>
 			<key>enabled</key>
-			<true/>
+			<false/>
 			<key>keyword</key>
 			<string>appsync</string>
 			<key>text</key>
 			<string>AppSync</string>
 			<key>url</key>
 			<string>https://console.aws.amazon.com/appsync/home?region=us-east-1#/frv76ws7rnfclei34dprxk2ady/v1/home</string>
+			<key>utf8</key>
+			<true/>
+		</dict>
+		<key>FEBF284D-55A5-4802-9F27-D0817AF80BA2</key>
+		<dict>
+			<key>enabled</key>
+			<true/>
+			<key>keyword</key>
+			<string>heroku</string>
+			<key>text</key>
+			<string>Heroku</string>
+			<key>url</key>
+			<string>https://dashboard.heroku.com/apps</string>
 			<key>utf8</key>
 			<true/>
 		</dict>

@@ -1,1 +1,0 @@
-export klk="echo 'klk 👊'"
