@@ -303,19 +303,6 @@
 			<key>utf8</key>
 			<true/>
 		</dict>
-		<key>9B9FE5EF-5E0E-437A-863D-64B9F9FE8146</key>
-		<dict>
-			<key>enabled</key>
-			<true/>
-			<key>keyword</key>
-			<string>micampus</string>
-			<key>text</key>
-			<string>Mi Campus</string>
-			<key>url</key>
-			<string>https://micampus.pucmm.edu.do/psp/cs92pro/?cmd=login&amp;languageCd=ESP&amp;</string>
-			<key>utf8</key>
-			<true/>
-		</dict>
 		<key>A0BD6142-6A00-455B-8419-46F3D27B316E</key>
 		<dict>
 			<key>enabled</key>
@@ -352,32 +339,6 @@
 			<string>YouTube</string>
 			<key>url</key>
 			<string>https://www.youtube.com</string>
-			<key>utf8</key>
-			<true/>
-		</dict>
-		<key>AED16FAD-5DAE-4834-B261-86B0FB3A78CE</key>
-		<dict>
-			<key>enabled</key>
-			<true/>
-			<key>keyword</key>
-			<string>vision</string>
-			<key>text</key>
-			<string>Vision</string>
-			<key>url</key>
-			<string>https://www.aicvision20k.com/new-partner-resources?password=iamd1in2021</string>
-			<key>utf8</key>
-			<true/>
-		</dict>
-		<key>C99EAE18-8B7B-4DD7-8F25-12E3B5543AD3</key>
-		<dict>
-			<key>enabled</key>
-			<true/>
-			<key>keyword</key>
-			<string>pva</string>
-			<key>text</key>
-			<string>PVA</string>
-			<key>url</key>
-			<string>https://campusvirtual.pucmm.edu.do</string>
 			<key>utf8</key>
 			<true/>
 		</dict>
@@ -472,19 +433,6 @@
 			<key>utf8</key>
 			<true/>
 		</dict>
-		<key>D8E4EF14-E2CB-4768-B4BD-57A6274F7829</key>
-		<dict>
-			<key>enabled</key>
-			<false/>
-			<key>keyword</key>
-			<string>docs</string>
-			<key>text</key>
-			<string>Docs</string>
-			<key>url</key>
-			<string>https://docs.google.com/document/u/0/</string>
-			<key>utf8</key>
-			<true/>
-		</dict>
 		<key>DA5E8F47-588E-4A12-9808-D29A2C59D78B</key>
 		<dict>
 			<key>enabled</key>
@@ -547,19 +495,6 @@
 			<string>Tsseract Board</string>
 			<key>url</key>
 			<string>https://trello.com/b/vcaixqe5/tsseract</string>
-			<key>utf8</key>
-			<true/>
-		</dict>
-		<key>F119982C-472B-4687-8B0B-7F011AA07545</key>
-		<dict>
-			<key>enabled</key>
-			<false/>
-			<key>keyword</key>
-			<string>shop</string>
-			<key>text</key>
-			<string>MyShop</string>
-			<key>url</key>
-			<string>https://www.amway.com.do/es_DO/myshop/jeremy?logout=true</string>
 			<key>utf8</key>
 			<true/>
 		</dict>
