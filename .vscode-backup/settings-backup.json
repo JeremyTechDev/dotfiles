@@ -1,0 +1,86 @@
+{
+	"workbench.colorTheme": "One Dark Pro Darker",
+	"workbench.iconTheme": "material-icon-theme",
+	"editor.fontLigatures": true,
+	"editor.fontFamily": "Victor Mono , Menlo, Monaco, 'Courier New', monospace",
+	"[javascript]": {
+		"editor.defaultFormatter": "esbenp.prettier-vscode"
+	},
+	"[javascriptreact]": {
+		"editor.defaultFormatter": "esbenp.prettier-vscode"
+	},
+	"explorer.confirmDragAndDrop": false,
+	"cSpell.userWords": [
+		"Hola",
+		"nexstar",
+		"nextjs",
+		"tailwindcss",
+		"Tesseract",
+		"testid",
+		"tsseract"
+	],
+	"[typescriptreact]": {
+		"editor.defaultFormatter": "esbenp.prettier-vscode"
+	},
+	"[json]": {
+		"editor.defaultFormatter": "esbenp.prettier-vscode"
+	},
+	"[typescript]": {
+		"editor.defaultFormatter": "esbenp.prettier-vscode"
+	},
+	"javascript.updateImportsOnFileMove.enabled": "always",
+	"vim.normalModeKeyBindingsNonRecursive": [
+		{
+			"before": ["<S-j>"],
+			"after": ["1", "0", "j"]
+		},
+		{
+			"before": ["<S-k>"],
+			"after": ["1", "0", "k"]
+		}
+	],
+	"vim.useSystemClipboard": true,
+	"workbench.editorAssociations": {
+		"*.ipynb": "jupyter-notebook"
+	},
+	"notebook.cellToolbarLocation": {
+		"default": "right",
+		"jupyter-notebook": "left"
+	},
+	"window.restoreFullscreen": true,
+	"window.restoreWindows": "none",
+	"[python]": {
+		"editor.defaultFormatter": "ms-python.python"
+	},
+	"python.defaultInterpreterPath": "/opt/homebrew/bin/python3",
+	"phpcs.executablePath": "../phpcs/bin/phpcs",
+	"phpcbf.executablePath": "~/dev/phpcs/bin/phpcbf",
+	"prettier.useTabs": true,
+	"editor.suggestSelection": "first",
+	"vsintellicode.modify.editor.suggestSelection": "automaticallyOverrodeDefaultValue",
+	"editor.formatOnSaveMode": "modifications",
+	"cSpell.language": "en,es",
+	"typescript.updateImportsOnFileMove.enabled": "always",
+	"editor.bracketPairColorization.enabled": true,
+	"[jsonc]": {
+		"editor.defaultFormatter": "esbenp.prettier-vscode"
+	},
+	"[html]": {
+		"editor.defaultFormatter": "esbenp.prettier-vscode"
+	},
+	"files.exclude": {
+		"**/.classpath": true,
+		"**/.project": true,
+		"**/.settings": true,
+		"**/.factorypath": true
+	},
+	"files.associations": {
+		"*.tsx": "typescriptreact"
+	},
+	"workbench.sideBar.location": "right",
+	"window.zoomLevel": 1,
+	"diffEditor.ignoreTrimWhitespace": false,
+	"editor.guides.bracketPairs": "active",
+	"editor.cursorBlinking": "phase",
+	"editor.cursorSmoothCaretAnimation": true
+}
