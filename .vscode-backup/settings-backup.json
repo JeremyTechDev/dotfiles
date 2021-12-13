@@ -17,7 +17,8 @@
 		"tailwindcss",
 		"Tesseract",
 		"testid",
-		"tsseract"
+		"tsseract",
+		"unoptimized"
 	],
 	"[typescriptreact]": {
 		"editor.defaultFormatter": "esbenp.prettier-vscode"
