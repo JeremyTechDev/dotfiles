@@ -474,7 +474,7 @@
 		</dict>
 	</dict>
 	<key>Default Arrangement Name</key>
-	<string>Triple</string>
+	<string>Default</string>
 	<key>Default Bookmark Guid</key>
 	<string>462A5D10-A127-4096-BC11-2C9AE49CB8E0</string>
 	<key>DimBackgroundWindows</key>
@@ -543,15 +543,27 @@ Horizontal:Restore Window Arrangement as Tabs</string>
 			<string>Vertical
 Vertical:Restore Window Arrangement as Tabs</string>
 		</dict>
-		<key>0x6c-0x100000-0x25</key>
+		<key>0x6b-0x100000-0x28</key>
 		<dict>
 			<key>Action</key>
-			<integer>25</integer>
+			<integer>28</integer>
 			<key>Label</key>
 			<string></string>
 			<key>Text</key>
-			<string>Move Window to Right Side of Screen
-_zoomRight:</string>
+			<string>462A5D10-A127-4096-BC11-2C9AE49CB8E0</string>
+			<key>Version</key>
+			<integer>1</integer>
+		</dict>
+		<key>0x6c-0x100000-0x25</key>
+		<dict>
+			<key>Action</key>
+			<integer>29</integer>
+			<key>Label</key>
+			<string></string>
+			<key>Text</key>
+			<string>462A5D10-A127-4096-BC11-2C9AE49CB8E0</string>
+			<key>Version</key>
+			<integer>1</integer>
 		</dict>
 		<key>0x70-0x100000-0x23</key>
 		<dict>
@@ -1453,7 +1465,7 @@ Two Panels:Restore Window Arrangement as Tabs</string>
 				<key>Has Toolbelt</key>
 				<false/>
 				<key>Height</key>
-				<real>618</real>
+				<real>690</real>
 				<key>Hide After Opening</key>
 				<false/>
 				<key>Hiding Toolbelt Should Resize Window</key>
@@ -1466,6 +1478,8 @@ Two Panels:Restore Window Arrangement as Tabs</string>
 				<integer>13</integer>
 				<key>Screen</key>
 				<integer>0</integer>
+				<key>Scroller Width</key>
+				<real>0.0</real>
 				<key>Selected Tab Index</key>
 				<integer>0</integer>
 				<key>Tabs</key>
@@ -1493,172 +1507,225 @@ Two Panels:Restore Window Arrangement as Tabs</string>
 											<key>Ansi 0 Color</key>
 											<dict>
 												<key>Blue Component</key>
-												<real>0.0</real>
+												<real>0.4392156862745098</real>
+												<key>Color Space</key>
+												<string>sRGB</string>
 												<key>Green Component</key>
-												<real>0.0</real>
+												<real>0.38823529411764707</real>
 												<key>Red Component</key>
-												<real>0.0</real>
+												<real>0.36078431372549019</real>
 											</dict>
 											<key>Ansi 1 Color</key>
 											<dict>
 												<key>Blue Component</key>
-												<real>0.0</real>
+												<real>0.45882352941176469</real>
+												<key>Color Space</key>
+												<string>sRGB</string>
 												<key>Green Component</key>
-												<real>0.0</real>
+												<real>0.42352941176470588</real>
 												<key>Red Component</key>
-												<real>0.73333334922790527</real>
+												<real>0.8784313725490196</real>
 											</dict>
 											<key>Ansi 10 Color</key>
 											<dict>
 												<key>Blue Component</key>
-												<real>0.3333333432674408</real>
+												<real>0.47450980392156861</real>
+												<key>Color Space</key>
+												<string>sRGB</string>
 												<key>Green Component</key>
-												<real>1</real>
+												<real>0.76470588235294112</real>
 												<key>Red Component</key>
-												<real>0.3333333432674408</real>
+												<real>0.59607843137254901</real>
 											</dict>
 											<key>Ansi 11 Color</key>
 											<dict>
 												<key>Blue Component</key>
-												<real>0.3333333432674408</real>
+												<real>0.40000000000000002</real>
+												<key>Color Space</key>
+												<string>sRGB</string>
 												<key>Green Component</key>
-												<real>1</real>
+												<real>0.60392156862745094</real>
 												<key>Red Component</key>
-												<real>1</real>
+												<real>0.81960784313725488</real>
 											</dict>
 											<key>Ansi 12 Color</key>
 											<dict>
 												<key>Blue Component</key>
-												<real>1</real>
+												<real>0.93725490196078431</real>
+												<key>Color Space</key>
+												<string>sRGB</string>
 												<key>Green Component</key>
-												<real>0.3333333432674408</real>
+												<real>0.68627450980392157</real>
 												<key>Red Component</key>
-												<real>0.3333333432674408</real>
+												<real>0.38039215686274508</real>
 											</dict>
 											<key>Ansi 13 Color</key>
 											<dict>
 												<key>Blue Component</key>
-												<real>1</real>
+												<real>0.8666666666666667</real>
+												<key>Color Space</key>
+												<string>sRGB</string>
 												<key>Green Component</key>
-												<real>0.3333333432674408</real>
+												<real>0.47058823529411764</real>
 												<key>Red Component</key>
-												<real>1</real>
+												<real>0.77647058823529413</real>
 											</dict>
 											<key>Ansi 14 Color</key>
 											<dict>
 												<key>Blue Component</key>
-												<real>1</real>
+												<real>0.76078431372549016</real>
+												<key>Color Space</key>
+												<string>sRGB</string>
 												<key>Green Component</key>
-												<real>1</real>
+												<real>0.71372549019607845</real>
 												<key>Red Component</key>
-												<real>0.3333333432674408</real>
+												<real>0.33725490196078434</real>
 											</dict>
 											<key>Ansi 15 Color</key>
 											<dict>
 												<key>Blue Component</key>
-												<real>1</real>
+												<real>0.32156862745098042</real>
+												<key>Color Space</key>
+												<string>sRGB</string>
 												<key>Green Component</key>
-												<real>1</real>
+												<real>0.26666666666666666</real>
 												<key>Red Component</key>
-												<real>1</real>
+												<real>0.24313725490196078</real>
 											</dict>
 											<key>Ansi 2 Color</key>
 											<dict>
 												<key>Blue Component</key>
-												<real>0.0</real>
+												<real>0.47450980392156861</real>
+												<key>Color Space</key>
+												<string>sRGB</string>
 												<key>Green Component</key>
-												<real>0.73333334922790527</real>
+												<real>0.76470588235294112</real>
 												<key>Red Component</key>
-												<real>0.0</real>
+												<real>0.59607843137254901</real>
 											</dict>
 											<key>Ansi 3 Color</key>
 											<dict>
 												<key>Blue Component</key>
-												<real>0.0</real>
+												<real>0.4823529411764706</real>
+												<key>Color Space</key>
+												<string>sRGB</string>
 												<key>Green Component</key>
-												<real>0.73333334922790527</real>
+												<real>0.75294117647058822</real>
 												<key>Red Component</key>
-												<real>0.73333334922790527</real>
+												<real>0.89803921568627454</real>
 											</dict>
 											<key>Ansi 4 Color</key>
 											<dict>
 												<key>Blue Component</key>
-												<real>0.73333334922790527</real>
+												<real>0.93725490196078431</real>
+												<key>Color Space</key>
+												<string>sRGB</string>
 												<key>Green Component</key>
-												<real>0.0</real>
+												<real>0.68627450980392157</real>
 												<key>Red Component</key>
-												<real>0.0</real>
+												<real>0.38039215686274508</real>
 											</dict>
 											<key>Ansi 5 Color</key>
 											<dict>
 												<key>Blue Component</key>
-												<real>0.73333334922790527</real>
+												<real>0.8666666666666667</real>
+												<key>Color Space</key>
+												<string>sRGB</string>
 												<key>Green Component</key>
-												<real>0.0</real>
+												<real>0.47058823529411764</real>
 												<key>Red Component</key>
-												<real>0.73333334922790527</real>
+												<real>0.77647058823529413</real>
 											</dict>
 											<key>Ansi 6 Color</key>
 											<dict>
 												<key>Blue Component</key>
-												<real>0.73333334922790527</real>
+												<real>0.76078431372549016</real>
+												<key>Color Space</key>
+												<string>sRGB</string>
 												<key>Green Component</key>
-												<real>0.73333334922790527</real>
+												<real>0.71372549019607845</real>
 												<key>Red Component</key>
-												<real>0.0</real>
+												<real>0.33725490196078434</real>
 											</dict>
 											<key>Ansi 7 Color</key>
 											<dict>
 												<key>Blue Component</key>
-												<real>0.73333334922790527</real>
+												<real>0.74901960784313726</real>
+												<key>Color Space</key>
+												<string>sRGB</string>
 												<key>Green Component</key>
-												<real>0.73333334922790527</real>
+												<real>0.69803921568627447</real>
 												<key>Red Component</key>
-												<real>0.73333334922790527</real>
+												<real>0.6705882352941176</real>
 											</dict>
 											<key>Ansi 8 Color</key>
 											<dict>
 												<key>Blue Component</key>
-												<real>0.3333333432674408</real>
+												<real>0.38823529411764707</real>
+												<key>Color Space</key>
+												<string>sRGB</string>
 												<key>Green Component</key>
-												<real>0.3333333432674408</real>
+												<real>0.32156862745098042</real>
 												<key>Red Component</key>
-												<real>0.3333333432674408</real>
+												<real>0.29411764705882354</real>
 											</dict>
 											<key>Ansi 9 Color</key>
 											<dict>
 												<key>Blue Component</key>
-												<real>0.3333333432674408</real>
+												<real>0.27450980392156865</real>
+												<key>Color Space</key>
+												<string>sRGB</string>
 												<key>Green Component</key>
-												<real>0.3333333432674408</real>
+												<real>0.31372549019607843</real>
 												<key>Red Component</key>
-												<real>1</real>
+												<real>0.74509803921568629</real>
 											</dict>
 											<key>BM Growl</key>
 											<true/>
 											<key>Background Color</key>
 											<dict>
 												<key>Blue Component</key>
-												<real>0.0</real>
+												<real>0.20392156862745098</real>
+												<key>Color Space</key>
+												<string>sRGB</string>
 												<key>Green Component</key>
-												<real>0.0</real>
+												<real>0.17254901960784313</real>
 												<key>Red Component</key>
-												<real>0.0</real>
+												<real>0.15686274509803921</real>
 											</dict>
 											<key>Background Image Location</key>
 											<string></string>
+											<key>Badge Color</key>
+											<dict>
+												<key>Alpha Component</key>
+												<real>0.5</real>
+												<key>Blue Component</key>
+												<real>0.0</real>
+												<key>Color Space</key>
+												<string>sRGB</string>
+												<key>Green Component</key>
+												<real>0.14910027384757996</real>
+												<key>Red Component</key>
+												<real>1</real>
+											</dict>
+											<key>Blend</key>
+											<real>0.33789880562827224</real>
 											<key>Blinking Cursor</key>
 											<false/>
 											<key>Blur</key>
-											<false/>
+											<true/>
+											<key>Blur Radius</key>
+											<real>11.273236146907216</real>
 											<key>Bold Color</key>
 											<dict>
 												<key>Blue Component</key>
-												<real>1</real>
+												<real>0.74901960784313726</real>
+												<key>Color Space</key>
+												<string>sRGB</string>
 												<key>Green Component</key>
-												<real>1</real>
+												<real>0.69803921568627447</real>
 												<key>Red Component</key>
-												<real>1</real>
+												<real>0.6705882352941176</real>
 											</dict>
 											<key>Bound Hosts</key>
 											<array/>
@@ -1671,29 +1738,46 @@ Two Panels:Restore Window Arrangement as Tabs</string>
 											<key>Columns</key>
 											<integer>80</integer>
 											<key>Command</key>
-											<string>echo "Hello, Jackass 🌚"</string>
+											<string></string>
 											<key>Cursor Color</key>
 											<dict>
 												<key>Blue Component</key>
-												<real>0.73333334922790527</real>
+												<real>0.74901960784313726</real>
+												<key>Color Space</key>
+												<string>sRGB</string>
 												<key>Green Component</key>
-												<real>0.73333334922790527</real>
+												<real>0.69803921568627447</real>
 												<key>Red Component</key>
-												<real>0.73333334922790527</real>
+												<real>0.6705882352941176</real>
+											</dict>
+											<key>Cursor Guide Color</key>
+											<dict>
+												<key>Alpha Component</key>
+												<real>0.25</real>
+												<key>Blue Component</key>
+												<real>1</real>
+												<key>Color Space</key>
+												<string>sRGB</string>
+												<key>Green Component</key>
+												<real>0.92681378126144409</real>
+												<key>Red Component</key>
+												<real>0.70214027166366577</real>
 											</dict>
 											<key>Cursor Text Color</key>
 											<dict>
 												<key>Blue Component</key>
-												<real>1</real>
+												<real>0.20392156862745098</real>
+												<key>Color Space</key>
+												<string>sRGB</string>
 												<key>Green Component</key>
-												<real>1</real>
+												<real>0.17254901960784313</real>
 												<key>Red Component</key>
-												<real>1</real>
+												<real>0.15686274509803921</real>
 											</dict>
 											<key>Cursor Type</key>
 											<integer>2</integer>
 											<key>Custom Command</key>
-											<string>Yes</string>
+											<string>No</string>
 											<key>Custom Directory</key>
 											<string>Yes</string>
 											<key>Default Bookmark</key>
@@ -1707,14 +1791,16 @@ Two Panels:Restore Window Arrangement as Tabs</string>
 											<key>Foreground Color</key>
 											<dict>
 												<key>Blue Component</key>
-												<real>0.73333334922790527</real>
+												<real>0.74901960784313726</real>
+												<key>Color Space</key>
+												<string>sRGB</string>
 												<key>Green Component</key>
-												<real>0.73333334922790527</real>
+												<real>0.69803921568627447</real>
 												<key>Red Component</key>
-												<real>0.73333334922790527</real>
+												<real>0.6705882352941176</real>
 											</dict>
 											<key>Guid</key>
-											<string>D95F3C5E-E8A9-4BF1-8BF6-4057F32CAE51</string>
+											<string>94AD14FD-A932-4167-81F7-FB90E7C32FF5</string>
 											<key>Horizontal Spacing</key>
 											<real>1</real>
 											<key>Icon</key>
@@ -1723,6 +1809,8 @@ Two Panels:Restore Window Arrangement as Tabs</string>
 											<integer>0</integer>
 											<key>Initial Text</key>
 											<string></string>
+											<key>Initial Use Transparency</key>
+											<true/>
 											<key>Jobs to Ignore</key>
 											<array>
 												<string>rlogin</string>
@@ -2013,6 +2101,19 @@ Two Panels:Restore Window Arrangement as Tabs</string>
 													<string>[1;5F</string>
 												</dict>
 											</dict>
+											<key>Link Color</key>
+											<dict>
+												<key>Alpha Component</key>
+												<real>1</real>
+												<key>Blue Component</key>
+												<real>0.73422712087631226</real>
+												<key>Color Space</key>
+												<string>sRGB</string>
+												<key>Green Component</key>
+												<real>0.35915297269821167</real>
+												<key>Red Component</key>
+												<real>0.0</real>
+											</dict>
 											<key>Mouse Reporting</key>
 											<true/>
 											<key>Name</key>
@@ -2022,7 +2123,9 @@ Two Panels:Restore Window Arrangement as Tabs</string>
 											<key>Non-ASCII Anti Aliased</key>
 											<true/>
 											<key>Normal Font</key>
-											<string>VictorMonoNerdFontComplete-SemiBold 13</string>
+											<string>VictorMonoNerdFontComplete-SemiBold 14</string>
+											<key>Only The Default BG Color Uses Transparency</key>
+											<true/>
 											<key>Option Key Sends</key>
 											<integer>0</integer>
 											<key>Original Guid</key>
@@ -2040,20 +2143,24 @@ Two Panels:Restore Window Arrangement as Tabs</string>
 											<key>Selected Text Color</key>
 											<dict>
 												<key>Blue Component</key>
-												<real>0.0</real>
+												<real>0.20392156862745098</real>
+												<key>Color Space</key>
+												<string>sRGB</string>
 												<key>Green Component</key>
-												<real>0.0</real>
+												<real>0.17254901960784313</real>
 												<key>Red Component</key>
-												<real>0.0</real>
+												<real>0.15686274509803921</real>
 											</dict>
 											<key>Selection Color</key>
 											<dict>
 												<key>Blue Component</key>
-												<real>1</real>
+												<real>0.74901960784313726</real>
+												<key>Color Space</key>
+												<string>sRGB</string>
 												<key>Green Component</key>
-												<real>0.8353000283241272</real>
+												<real>0.69803921568627447</real>
 												<key>Red Component</key>
-												<real>0.70980000495910645</real>
+												<real>0.6705882352941176</real>
 											</dict>
 											<key>Send Code When Idle</key>
 											<false/>
@@ -2091,7 +2198,7 @@ Two Panels:Restore Window Arrangement as Tabs</string>
 											<string>/Users/jem/dev</string>
 										</dict>
 										<key>Columns</key>
-										<integer>142</integer>
+										<integer>138</integer>
 										<key>Commands</key>
 										<array/>
 										<key>Directories</key>
@@ -2099,11 +2206,20 @@ Two Panels:Restore Window Arrangement as Tabs</string>
 											<string>/Users/jem/dev</string>
 											<string>/Users/jem/dev</string>
 											<string>/Users/jem/dev</string>
+											<string>/Users/jem/dev/content-syndication-platform</string>
+											<string>/Users/jem/dev/content-syndication-platform</string>
+											<string>/Users/jem/dev/content-syndication-platform</string>
+											<string>/Users/jem/dev/content-syndication-platform</string>
+											<string>/Users/jem/dev/content-syndication-platform</string>
+											<string>/Users/jem/dev</string>
+											<string>/Users/jem/dev</string>
+											<string>/Users/jem/dev</string>
+											<string>/Users/jem/dev</string>
 										</array>
 										<key>Environment</key>
 										<dict>
 											<key>PWD</key>
-											<string>/Users/jem/dev</string>
+											<string>/Users/jem/dev/content-syndication-platform</string>
 										</dict>
 										<key>Hostname to Shell</key>
 										<dict/>
@@ -2134,7 +2250,7 @@ Two Panels:Restore Window Arrangement as Tabs</string>
 										<key>Rows</key>
 										<integer>36</integer>
 										<key>Session GUID</key>
-										<string>C255D234-FD63-4F06-9650-0CE95F5D200C</string>
+										<string>31777F1B-47E0-45FE-ADDD-C66FF1C318F4</string>
 										<key>Short Lived Single Use</key>
 										<false/>
 										<key>Should Expect Current Dir Updates</key>
@@ -2156,9 +2272,9 @@ Two Panels:Restore Window Arrangement as Tabs</string>
 									<key>frame</key>
 									<dict>
 										<key>height</key>
-										<real>580</real>
+										<real>652</real>
 										<key>width</key>
-										<real>1004</real>
+										<real>1114</real>
 										<key>x</key>
 										<real>0.0</real>
 										<key>y</key>
@@ -2171,9 +2287,9 @@ Two Panels:Restore Window Arrangement as Tabs</string>
 							<key>frame</key>
 							<dict>
 								<key>height</key>
-								<real>580</real>
+								<real>652</real>
 								<key>width</key>
-								<real>1004</real>
+								<real>1114</real>
 								<key>x</key>
 								<real>0.0</real>
 								<key>y</key>
@@ -2216,13 +2332,13 @@ Two Panels:Restore Window Arrangement as Tabs</string>
 				<key>Use Transparency</key>
 				<true/>
 				<key>Width</key>
-				<real>1004</real>
+				<real>1114</real>
 				<key>Window Type</key>
 				<integer>13</integer>
 				<key>X Origin</key>
-				<real>323</real>
+				<real>173</real>
 				<key>Y Origin</key>
-				<real>181</real>
+				<real>130</real>
 			</dict>
 		</array>
 		<key>Horizontal</key>
