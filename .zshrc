@@ -45,3 +45,22 @@ export PATH="$PATH:$HOME/.composer/vendor/bin"
 
 # Added by Amplify CLI binary installer
 export PATH="$HOME/.amplify/bin:$PATH"
+
+# Git helpers
+squash_on () {
+  # If user just enters 'squash_on', give help text
+  if (( # == 0 )); then
+    echo This will squash your current branch down to one unstaged commit.
+    echo Use by typing squash_on rootBranchName
+    echo usage: squash_on develop
+  fi
+  # If a root branch is provided, run the squasher
+  if (( # == 1 )); then
+    branch=$(git symbolic-ref HEAD)
+    echo Squashing all commits from $branch
+    git reset $(git merge-base $1 $branch)
+    echo ------SUCCESS!------
+    echo Commits successfully squashed, all file changes are unstaged.
+    echo Run 'git add -A' and 'git commit -m "your commit message"' to add your squashed commit.
+  fi
+}

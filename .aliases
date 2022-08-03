@@ -87,6 +87,7 @@ alias po='cd ~/dev/inapps-purchasing-fe'
 alias ia='cd ~/dev/ia-eux'
 alias dl='cd ~/Downloads'
 alias dotfiles='/usr/bin/git --git-dir=/Users/jem/.dotfiles/ --work-tree=/Users/jem'
+alias jus='npx jest --updateSnapshot'
 
 # Shorts
 alias hm='cd ~'

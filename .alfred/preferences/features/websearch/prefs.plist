@@ -4,29 +4,29 @@
 <dict>
 	<key>customSites</key>
 	<dict>
-		<key>077A56EA-7BA5-40C9-83C8-A692D344AC7D</key>
+		<key>0A6E22CF-991B-4887-B907-7E158EDB57B9</key>
 		<dict>
 			<key>enabled</key>
 			<true/>
 			<key>keyword</key>
-			<string>popular</string>
+			<string>korean class</string>
 			<key>text</key>
-			<string>Popular</string>
+			<string>Korean Class</string>
 			<key>url</key>
-			<string>https://www.popularenlinea.com/personas/Paginas/Home.aspx</string>
+			<string>https://us02web.zoom.us/j/81455731212?pwd=T2ErTWhjZkg1OWFqUDJNM1NoZTVaUT09</string>
 			<key>utf8</key>
 			<true/>
 		</dict>
-		<key>1ECCB4A2-BDBE-45F6-B4D3-249E06F9CD4F</key>
+		<key>0A8F2EB3-8ADA-42B0-B8DE-EC6BFEBCDEFF</key>
 		<dict>
 			<key>enabled</key>
 			<true/>
 			<key>keyword</key>
-			<string>sheets</string>
+			<string>web3</string>
 			<key>text</key>
-			<string>Sheets</string>
+			<string>LearnWeb3</string>
 			<key>url</key>
-			<string>https://docs.google.com/spreadsheets/u/0/</string>
+			<string>https://www.learnweb3.io/tracks/freshman</string>
 			<key>utf8</key>
 			<true/>
 		</dict>
@@ -43,16 +43,42 @@
 			<key>utf8</key>
 			<true/>
 		</dict>
-		<key>23105774-73C4-4E0A-B709-AE4C031C0AC6</key>
+		<key>2B247584-BDCE-4A5D-A0A4-A895D5C6F680</key>
+		<dict>
+			<key>enabled</key>
+			<false/>
+			<key>keyword</key>
+			<string>binance</string>
+			<key>text</key>
+			<string>Binance</string>
+			<key>url</key>
+			<string>https://www.binance.com/en/my/wallet/account/overview</string>
+			<key>utf8</key>
+			<true/>
+		</dict>
+		<key>2F4A8F09-5360-4BD9-ACB2-4D2C8358F360</key>
 		<dict>
 			<key>enabled</key>
 			<true/>
 			<key>keyword</key>
-			<string>travis</string>
+			<string>jira</string>
 			<key>text</key>
-			<string>Travis CI</string>
+			<string>Jira Board</string>
 			<key>url</key>
-			<string>https://travis-ci.com/github/wpcomvip/nxs/branches</string>
+			<string>https://rivianautomotivellc.atlassian.net/jira/software/c/projects/SUP/boards/2729</string>
+			<key>utf8</key>
+			<true/>
+		</dict>
+		<key>2F8FB95C-ED3A-4754-AD71-B75D41290F6F</key>
+		<dict>
+			<key>enabled</key>
+			<true/>
+			<key>keyword</key>
+			<string>turing</string>
+			<key>text</key>
+			<string>Turing Workspace</string>
+			<key>url</key>
+			<string>https://workspace.turing.com/developerDashboard</string>
 			<key>utf8</key>
 			<true/>
 		</dict>
@@ -95,32 +121,6 @@
 			<key>utf8</key>
 			<true/>
 		</dict>
-		<key>36E87481-634A-4A08-A064-2C5E942ED809</key>
-		<dict>
-			<key>enabled</key>
-			<true/>
-			<key>keyword</key>
-			<string>ebayp</string>
-			<key>text</key>
-			<string>eBay Puschase History</string>
-			<key>url</key>
-			<string>https://www.ebay.com/myb/PurchaseHistory</string>
-			<key>utf8</key>
-			<true/>
-		</dict>
-		<key>3E539ED1-1538-4AE0-B462-1A6549D7EB30</key>
-		<dict>
-			<key>enabled</key>
-			<true/>
-			<key>keyword</key>
-			<string>stage</string>
-			<key>text</key>
-			<string>Stage</string>
-			<key>url</key>
-			<string>https://nxsttv-stage.go-vip.net/wcmh/</string>
-			<key>utf8</key>
-			<true/>
-		</dict>
 		<key>3F47B5D7-EBD1-4647-B321-D79C00B995D4</key>
 		<dict>
 			<key>enabled</key>
@@ -130,7 +130,20 @@
 			<key>text</key>
 			<string>Udemy</string>
 			<key>url</key>
-			<string>https://www.udemy.com/home/my-courses/learning/</string>
+			<string>https://turing.udemy.com</string>
+			<key>utf8</key>
+			<true/>
+		</dict>
+		<key>3FC07159-A4F2-4D86-B86E-BA5B3CD2AD22</key>
+		<dict>
+			<key>enabled</key>
+			<true/>
+			<key>keyword</key>
+			<string>interactivebrokers</string>
+			<key>text</key>
+			<string>Interactive Brokers</string>
+			<key>url</key>
+			<string>https://www.interactivebrokers.co.uk/sso/Login</string>
 			<key>utf8</key>
 			<true/>
 		</dict>
@@ -160,6 +173,19 @@
 			<key>utf8</key>
 			<true/>
 		</dict>
+		<key>450FAA8F-02B9-4FE0-8D96-DA06FA31833F</key>
+		<dict>
+			<key>enabled</key>
+			<true/>
+			<key>keyword</key>
+			<string>revue</string>
+			<key>text</key>
+			<string>Revue</string>
+			<key>url</key>
+			<string>https://www.getrevue.co/app/issues</string>
+			<key>utf8</key>
+			<true/>
+		</dict>
 		<key>476BA129-57B1-48BA-B53D-CF5EAE59CA8D</key>
 		<dict>
 			<key>enabled</key>
@@ -170,6 +196,19 @@
 			<string>Localhost 3000</string>
 			<key>url</key>
 			<string>http://localhost:3000</string>
+			<key>utf8</key>
+			<true/>
+		</dict>
+		<key>4BDEB91C-B8EE-400A-83A7-2110A6AA786D</key>
+		<dict>
+			<key>enabled</key>
+			<true/>
+			<key>keyword</key>
+			<string>purchasing amplify</string>
+			<key>text</key>
+			<string>Purchasing Amplify</string>
+			<key>url</key>
+			<string>https://us-east-2.console.aws.amazon.com/amplify/home?region=us-east-2#/d3c3m0nljj7bfi</string>
 			<key>utf8</key>
 			<true/>
 		</dict>
@@ -199,16 +238,29 @@
 			<key>utf8</key>
 			<true/>
 		</dict>
-		<key>5893EA62-6932-4AFF-B60C-B9D95D4FCE65</key>
+		<key>53817F60-8225-4962-B4D0-EA042568652F</key>
 		<dict>
 			<key>enabled</key>
-			<false/>
+			<true/>
 			<key>keyword</key>
-			<string>amway</string>
+			<string>ftx</string>
 			<key>text</key>
-			<string>Amway</string>
+			<string>FTX</string>
 			<key>url</key>
-			<string>https://www.amway.com.do</string>
+			<string>https://ftx.com/</string>
+			<key>utf8</key>
+			<true/>
+		</dict>
+		<key>5A59D90E-98D2-407A-80D9-2AFCAAF1AE76</key>
+		<dict>
+			<key>enabled</key>
+			<true/>
+			<key>keyword</key>
+			<string>calendly</string>
+			<key>text</key>
+			<string>Calendly</string>
+			<key>url</key>
+			<string>https://calendly.com/event_types/user/me</string>
 			<key>utf8</key>
 			<true/>
 		</dict>
@@ -225,16 +277,42 @@
 			<key>utf8</key>
 			<true/>
 		</dict>
-		<key>5F7E03E3-DB27-479B-9A07-A000B8FA160F</key>
+		<key>63D57638-B11E-4E22-AD84-23BEEF1908CC</key>
 		<dict>
 			<key>enabled</key>
 			<true/>
 			<key>keyword</key>
-			<string>jira</string>
+			<string>preview</string>
 			<key>text</key>
-			<string>Jira</string>
+			<string>PR Preview</string>
 			<key>url</key>
-			<string>https://nexstardigital.atlassian.net/jira/software/c/projects/MS/boards/59</string>
+			<string>https://pr-{query}.d3c3m0nljj7bfi.amplifyapp.com/</string>
+			<key>utf8</key>
+			<true/>
+		</dict>
+		<key>653B4F46-CE60-47AB-B215-BD8A3A0B877D</key>
+		<dict>
+			<key>enabled</key>
+			<true/>
+			<key>keyword</key>
+			<string>deel</string>
+			<key>text</key>
+			<string>Deel</string>
+			<key>url</key>
+			<string>https://app.letsdeel.com/</string>
+			<key>utf8</key>
+			<true/>
+		</dict>
+		<key>6E66053D-F789-47C2-88F9-AED34F2DE0FA</key>
+		<dict>
+			<key>enabled</key>
+			<true/>
+			<key>keyword</key>
+			<string>weekly hours log</string>
+			<key>text</key>
+			<string>Weekly Hours Log</string>
+			<key>url</key>
+			<string>https://drive.google.com/drive/u/2/folders/1dchfzA1E_MMNS4tMmlJLVZXLe-DMEdkH</string>
 			<key>utf8</key>
 			<true/>
 		</dict>
@@ -290,16 +368,42 @@
 			<key>utf8</key>
 			<true/>
 		</dict>
-		<key>94F0F0D9-7126-4718-B8E9-DC2462689CD1</key>
+		<key>7FAC9C46-C6BF-4ABF-9EC6-63FAEE50BB16</key>
 		<dict>
 			<key>enabled</key>
 			<true/>
 			<key>keyword</key>
-			<string>cc</string>
+			<string>betterworldbooks</string>
 			<key>text</key>
-			<string>ClickUp</string>
+			<string>BetterWorldBooks</string>
 			<key>url</key>
-			<string>https://app.clickup.com/14183550/home</string>
+			<string>https://www.betterworldbooks.com/</string>
+			<key>utf8</key>
+			<true/>
+		</dict>
+		<key>86EE7903-3015-4060-9786-DAE9F14D45F6</key>
+		<dict>
+			<key>enabled</key>
+			<true/>
+			<key>keyword</key>
+			<string>wise</string>
+			<key>text</key>
+			<string>Wise</string>
+			<key>url</key>
+			<string>https://wise.com/user/account/</string>
+			<key>utf8</key>
+			<true/>
+		</dict>
+		<key>9EF1CE5D-F3C0-403B-AAA0-02569A4F79D9</key>
+		<dict>
+			<key>enabled</key>
+			<true/>
+			<key>keyword</key>
+			<string>wallet</string>
+			<key>text</key>
+			<string>Wallet</string>
+			<key>url</key>
+			<string>https://web.budgetbakers.com/dashboard</string>
 			<key>utf8</key>
 			<true/>
 		</dict>
@@ -316,19 +420,6 @@
 			<key>utf8</key>
 			<true/>
 		</dict>
-		<key>A19EC978-0802-4E36-8609-01A985CFCCC2</key>
-		<dict>
-			<key>enabled</key>
-			<true/>
-			<key>keyword</key>
-			<string>ktla</string>
-			<key>text</key>
-			<string>KTLA</string>
-			<key>url</key>
-			<string>http://local.dev.psg.nexstardigital.net/ktla</string>
-			<key>utf8</key>
-			<true/>
-		</dict>
 		<key>AD46A4F8-DA7F-4C64-9740-B8347640CE97</key>
 		<dict>
 			<key>enabled</key>
@@ -342,16 +433,42 @@
 			<key>utf8</key>
 			<true/>
 		</dict>
-		<key>CA3081F1-3232-43BF-8B3D-ABC969C012D5</key>
+		<key>B84663B5-3832-4011-8F84-22711E0CACD0</key>
 		<dict>
 			<key>enabled</key>
 			<true/>
 			<key>keyword</key>
-			<string>todo</string>
+			<string>apps</string>
 			<key>text</key>
-			<string>TeuxDeux</string>
+			<string>My Applications</string>
 			<key>url</key>
-			<string>https://teuxdeux.com/home</string>
+			<string>https://myapplications.microsoft.com/</string>
+			<key>utf8</key>
+			<true/>
+		</dict>
+		<key>B86C70EB-9BE1-4B5B-8B12-880A58F221E2</key>
+		<dict>
+			<key>enabled</key>
+			<true/>
+			<key>keyword</key>
+			<string>hours</string>
+			<key>text</key>
+			<string>Hours Log</string>
+			<key>url</key>
+			<string>https://docs.google.com/spreadsheets/d/1oQG9x_fm5uNid-yygUQ2C5BLAMcOi6fl/edit#gid=1847988948&amp;range=AC2</string>
+			<key>utf8</key>
+			<true/>
+		</dict>
+		<key>C763ABC8-FB50-4896-A0BB-DCF702AA3223</key>
+		<dict>
+			<key>enabled</key>
+			<true/>
+			<key>keyword</key>
+			<string>hypefury</string>
+			<key>text</key>
+			<string>Hypefury</string>
+			<key>url</key>
+			<string>https://app.hypefury.com/create</string>
 			<key>utf8</key>
 			<true/>
 		</dict>
@@ -371,7 +488,7 @@
 		<key>CD0FD262-8DD0-4C65-A78F-B904BF2C34C8</key>
 		<dict>
 			<key>enabled</key>
-			<false/>
+			<true/>
 			<key>keyword</key>
 			<string>sheets</string>
 			<key>text</key>
@@ -407,19 +524,6 @@
 			<key>utf8</key>
 			<true/>
 		</dict>
-		<key>D2FE945C-552A-4302-A142-AF76D843F2E8</key>
-		<dict>
-			<key>enabled</key>
-			<true/>
-			<key>keyword</key>
-			<string>wavy</string>
-			<key>text</key>
-			<string>Wavy</string>
-			<key>url</key>
-			<string>http://local.dev.psg.nexstardigital.net/wavy/</string>
-			<key>utf8</key>
-			<true/>
-		</dict>
 		<key>D579A496-7CE1-41E8-AAC3-317E9CB38DD1</key>
 		<dict>
 			<key>enabled</key>
@@ -430,6 +534,19 @@
 			<string>Gumroad</string>
 			<key>url</key>
 			<string>https://app.gumroad.com/library</string>
+			<key>utf8</key>
+			<true/>
+		</dict>
+		<key>D6B7F1B4-C6B4-44E7-A87E-6724C8D22F15</key>
+		<dict>
+			<key>enabled</key>
+			<true/>
+			<key>keyword</key>
+			<string>vndly</string>
+			<key>text</key>
+			<string>Vndly</string>
+			<key>url</key>
+			<string>https://rivian.vndly.com/candidate/timesheets/</string>
 			<key>utf8</key>
 			<true/>
 		</dict>
@@ -446,29 +563,29 @@
 			<key>utf8</key>
 			<true/>
 		</dict>
-		<key>E98C4CA4-4991-4669-A0DC-067D3E852A85</key>
+		<key>EC22C169-3B60-4819-A1E7-F7648001761E</key>
 		<dict>
 			<key>enabled</key>
-			<false/>
+			<true/>
 			<key>keyword</key>
-			<string>amway profile</string>
+			<string>eps</string>
 			<key>text</key>
-			<string>Amway Profile</string>
+			<string>EPS</string>
 			<key>url</key>
-			<string>https://www.amway.com.do/en_DO/my-account</string>
+			<string>https://app.eps-int.com/TrackingPaquetes</string>
 			<key>utf8</key>
 			<true/>
 		</dict>
-		<key>EE8CFA05-DFEE-4300-A387-668C29C89A2A</key>
+		<key>EC31606A-16A2-4E4F-BCD4-7CF7A6C44405</key>
 		<dict>
 			<key>enabled</key>
 			<true/>
 			<key>keyword</key>
-			<string>jj</string>
+			<string>meet</string>
 			<key>text</key>
-			<string>Jira MS...</string>
+			<string>Google Meet</string>
 			<key>url</key>
-			<string>https://nexstardigital.atlassian.net/browse/MS-{query}</string>
+			<string>https://meet.google.com/</string>
 			<key>utf8</key>
 			<true/>
 		</dict>
@@ -495,6 +612,32 @@
 			<string>Tsseract Board</string>
 			<key>url</key>
 			<string>https://trello.com/b/vcaixqe5/tsseract</string>
+			<key>utf8</key>
+			<true/>
+		</dict>
+		<key>F2F3716B-0DB4-4A90-ACBB-A10022A3C1F3</key>
+		<dict>
+			<key>enabled</key>
+			<true/>
+			<key>keyword</key>
+			<string>gitlab</string>
+			<key>text</key>
+			<string>GitLab</string>
+			<key>url</key>
+			<string>https://gitlab.com/rivian/it/internal-apps/ia-eux</string>
+			<key>utf8</key>
+			<true/>
+		</dict>
+		<key>F4F824AC-EC68-44EC-A9F0-A08C62F43697</key>
+		<dict>
+			<key>enabled</key>
+			<true/>
+			<key>keyword</key>
+			<string>bit</string>
+			<key>text</key>
+			<string>Bitbucket</string>
+			<key>url</key>
+			<string>https://bitbucket.org/rivian/inapps-purchasing-fe/src/development/</string>
 			<key>utf8</key>
 			<true/>
 		</dict>

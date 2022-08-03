@@ -18,16 +18,12 @@ brew install node@12
 brew install yarn
 brew install tree
 brew cask install iterm2
-brew cask install postman
-brew cask install ngrok
 brew cask install slack
 brew cask install brave-browser
-brew cask install spotify
 brew cask install whatsapp
-brew cask install minecraft
 brew cask install zoom
 brew cask install alfred
-brew cask install homebrew/cask-versions/visual-studio-code-insiders
+brew cask install vscode
 
 # Fonts
 brew tap homebrew/cask-fonts
