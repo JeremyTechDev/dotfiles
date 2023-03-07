@@ -516,13 +516,11 @@
 			<key>enabled</key>
 			<true/>
 			<key>keyword</key>
-			<string>8000</string>
+			<string>4000</string>
 			<key>text</key>
-			<string>Localhost 8000</string>
+			<string>Localhost 4000</string>
 			<key>url</key>
-			<string>http://localhost:8000</string>
-			<key>utf8</key>
-			<true/>
+			<string>http://localhost:4000</string>
 		</dict>
 		<key>D579A496-7CE1-41E8-AAC3-317E9CB38DD1</key>
 		<dict>

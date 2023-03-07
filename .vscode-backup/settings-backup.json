@@ -1,5 +1,5 @@
 {
-	"workbench.colorTheme": "One Dark Pro Darker",
+	"workbench.colorTheme": "One Dark Pro Mix",
 	"workbench.iconTheme": "material-icon-theme",
 	"editor.fontLigatures": true,
 	"editor.fontFamily": "Victor Mono , Menlo, Monaco, 'Courier New', monospace",
@@ -81,7 +81,7 @@
 	"diffEditor.ignoreTrimWhitespace": false,
 	"editor.guides.bracketPairs": "active",
 	"editor.cursorBlinking": "phase",
-	"editor.cursorSmoothCaretAnimation": true,
+	"editor.cursorSmoothCaretAnimation": "on",
 	"thunder-client.codeSnippetLanguage": "cs-httpclient",
 	"editor.largeFileOptimizations": false,
 	"phpcs.enable": true,
@@ -102,5 +102,6 @@
 	"[css]": {
 		"editor.defaultFormatter": "esbenp.prettier-vscode"
 	},
-	"window.zoomLevel": 1
+	"window.zoomLevel": 1,
+	"liveServer.settings.donotShowInfoMsg": true
 }

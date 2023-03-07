@@ -1,10 +1,3 @@
-# Enable Powerlevel10k instant prompt. Should stay close to the top of ~/.zshrc.
-# Initialization code that may require console input (password prompts, [y/n]
-# confirmations, etc.) must go above this block; everything else may go below.
-if [[ -r "${XDG_CACHE_HOME:-$HOME/.cache}/p10k-instant-prompt-${(%):-%n}.zsh" ]]; then
-  source "${XDG_CACHE_HOME:-$HOME/.cache}/p10k-instant-prompt-${(%):-%n}.zsh"
-fi
-
 # Terminal Customization
 source ~/.aliases
 
@@ -19,14 +12,12 @@ export ZSH="/Users/jem/.oh-my-zsh"
 export NVM_DIR="$HOME/.nvm"
   [ -s "/opt/homebrew/opt/nvm/nvm.sh" ] && . "/opt/homebrew/opt/nvm/nvm.sh"  # This loads nvm
   [ -s "/opt/homebrew/opt/nvm/etc/bash_completion.d/nvm" ] && . "/opt/homebrew/opt/nvm/etc/bash_completion.d/nvm"  # This loads nvm bash_completion
-# Theme
-ZSH_THEME="agnoster"
 
 # Plugins list
 plugins=(emoji zsh-autosuggestions zsh-syntax-highlighting)
+source ~/Git/zsh-autocomplete/zsh-autocomplete.plugin.zsh
 
-source $ZSH/oh-my-zsh.sh
-
+# source $ZSH/oh-my-zsh.sh
 [ -f ~/.fzf.zsh ] && source ~/.fzf.zsh
 
 alias luamake=/Users/jem/.config/lua-language-server/3rd/luamake/luamake
@@ -64,3 +55,7 @@ squash_on () {
     echo Run 'git add -A' and 'git commit -m "your commit message"' to add your squashed commit.
   fi
 }
+
+# Add colors to Terminal
+export CLICOLOR=1
+export LSCOLORS=ExFxBxDxCxegedabagacad
